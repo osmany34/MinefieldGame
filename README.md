@@ -1,4 +1,4 @@
-# MineSweeper
+# Minefield Game
 
 This is a console-based implementation of the classic Minesweeper game written in Java.
 
