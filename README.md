@@ -41,6 +41,7 @@ This is a console-based implementation of the classic Minesweeper game written i
 Welcome to MineSweeper!
 
 Enter the number of rows: 4
+
 Enter the number of columns: 4
 
 Game started!
@@ -52,6 +53,7 @@ Game started!
 
 
 Enter row (0-3): 2
+
 Enter column (0-3): 2
 
 Uncovered cell: 0
