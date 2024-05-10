@@ -38,7 +38,11 @@ This is a console-based implementation of the classic Minesweeper game written i
 
 ## Sample Gameplay
 
-Welcome to MineSweeper!
+Enter number of rows (minimum 2): 3
+
+Enter number of columns (minimum 2): 4
+
+Welcome to MineSweeper Game!
 
 Enter the number of rows: 4
 
