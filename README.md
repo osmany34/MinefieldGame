@@ -44,10 +44,6 @@ Enter number of columns (minimum 2): 4
 
 Welcome to MineSweeper Game!
 
-Enter the number of rows: 4
-
-Enter the number of columns: 4
-
 Game started!
 
 | - | - | - | - |
